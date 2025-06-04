@@ -1,0 +1,794 @@
+Customer ID,Customer Name,Marital Status,Age,Number of dependents,Home City,Home State,Postal Code,Risk Level
+CG-12520,Claire Gute,Married,67,0,Henderson,Kentucky,42420,Moderate
+DV-13045,Darrin Van Huff,Married,31,0,Los Angeles,California,90036,High
+SO-20335,Sean O'Donnell,Unmarried,65,2,Fort Lauderdale,Florida,33311,High
+BH-11710,Brosina Hoffman,Married,20,0,Los Angeles,California,90032,Low
+AA-10480,Andrew Allen,Unmarried,50,0,Concord,North Carolina,28027,Low
+IM-15070,Irene Maddox,Married,66,1,Seattle,Washington,98103,High
+HP-14815,Harold Pawlan,Married,20,2,Fort Worth,Texas,76106,High
+PK-19075,Pete Kriz,Married,46,0,Madison,Wisconsin,53711,High
+AG-10270,Alejandro Grove,Married,18,0,West Jordan,Utah,84084,Very Low
+ZD-21925,Zuschuss Donatelli,Married,66,0,San Francisco,California,94109,High
+KB-16585,Ken Black,Unmarried,67,1,Fremont,Nebraska,68025,High
+SF-20065,Sandra Flanagan,Married,41,0,Philadelphia,Pennsylvania,19140,High
+EB-13870,Emily Burns,Married,34,0,Orem,Utah,84057,Very Low
+EH-13945,Eric Hoffmann,Married,21,0,Los Angeles,California,90049,High
+TB-21520,Tracy Blumstein,Unmarried,48,0,Philadelphia,Pennsylvania,19140,High
+MA-17560,Matt Abelman,Married,19,1,Houston,Texas,77095,High
+GH-14485,Gene Hale,Unmarried,28,0,Richardson,Texas,75080,High
+SN-20710,Steve Nguyen,Unmarried,46,0,Houston,Texas,77041,High
+LC-16930,Linda Cazamias,Unmarried,31,3,Naperville,Illinois,60540,High
+RA-19885,Ruben Ausman,Married,51,0,Los Angeles,California,90049,High
+ES-14080,Erin Smith,Unmarried,20,3,Melbourne,Florida,32935,High
+ON-18715,Odella Nelson,Married,27,0,Eagan,Minnesota,55122,High
+PO-18865,Patrick O'Donnell,Married,64,1,Westland,Michigan,48185,High
+LH-16900,Lena Hernandez,Married,66,0,Dover,Delaware,19901,High
+DP-13000,Darren Powers,Married,40,0,New Albany,Indiana,47150,High
+JM-15265,Janet Molinari,Married,23,2,New York City,New York,10024,Very Low
+TB-21055,Ted Butterfield,Married,34,1,Troy,New York,12180,High
+KM-16720,Kunst Miller,Married,69,0,Los Angeles,California,90004,High
+PS-18970,Paul Stevenson,Married,31,0,Chicago,Illinois,60610,High
+BS-11590,Brendan Sweed,Married,45,2,Gilbert,Arizona,85234,Very Low
+KD-16270,Karen Daniels,Married,59,0,Springfield,Virginia,22153,High
+HM-14980,Henry MacAllister,Married,35,0,New York City,New York,10009,Moderate
+JE-15745,Joel Eaton,Unmarried,25,0,Memphis,Tennessee,38109,Moderate
+KB-16600,Ken Brennan,Married,29,3,Houston,Texas,77041,Low
+SC-20770,Stewart Carmichael,Married,18,2,Decatur,Alabama,35601,Moderate
+DN-13690,Duane Noonan,Unmarried,42,0,San Francisco,California,94122,Low
+JC-16105,Julie Creighton,Married,56,0,Durham,North Carolina,27707,Low
+CS-12400,Christopher Schild,Unmarried,33,1,Chicago,Illinois,60623,Very Low
+PG-18895,Paul Gonzalez,Unmarried,64,2,Rochester,Minnesota,55901,Moderate
+GM-14455,Gary Mitchum,Unmarried,64,0,Houston,Texas,77095,Very Low
+JS-15685,Jim Sink,Married,33,1,Los Angeles,California,90036,Low
+KB-16315,Karl Braun,Married,70,0,Minneapolis,Minnesota,55407,Very Low
+RB-19705,Roger Barcio,Married,63,0,Portland,Oregon,97206,Moderate
+PN-18775,Parhena Norris,Married,35,0,New York City,New York,10009,Moderate
+KD-16345,Katherine Ducich,Married,33,0,San Francisco,California,94122,Very Low
+ER-13855,Elpida Rittenbach,Unmarried,56,2,Saint Paul,Minnesota,55106,Moderate
+RB-19465,Rick Bensley,Unmarried,18,0,Chicago,Illinois,60610,Very Low
+GZ-14470,Gary Zandusky,Unmarried,64,2,Rochester,Minnesota,55901,Very Low
+LC-16870,Lena Cacioppo,Unmarried,63,2,Aurora,Colorado,80013,Very Low
+JM-15250,Janet Martin,Married,62,0,Charlotte,North Carolina,28205,Very Low
+PA-19060,Pete Armstrong,Married,31,3,Orland Park,Illinois,60462,Moderate
+CV-12805,Cynthia Voltz,Unmarried,55,2,New York City,New York,10035,Very Low
+CL-12565,Clay Ludtke,Married,36,1,Urbandale,Iowa,50322,Very Low
+RC-19960,Ryan Crowe,Married,34,0,Columbus,Ohio,43229,Moderate
+DK-13090,Dave Kipp,Married,24,0,Seattle,Washington,98103,Low
+GG-14650,Greg Guthrie,Married,51,3,Bristol,Tennessee,37620,Low
+SC-20725,Steven Cartwright,Unmarried,28,0,Wilmington,Delaware,19805,Very Low
+AD-10180,Alan Dominguez,Married,52,3,Houston,Texas,77041,Very Low
+PF-19165,Philip Fox,Unmarried,30,0,Bloomington,Illinois,61701,Low
+TS-21610,Troy Staebel,Unmarried,33,0,Phoenix,Arizona,85023,Low
+LS-16975,Lindsay Shagiari,Married,66,0,Los Angeles,California,90004,Moderate
+DW-13585,Dorothy Wardle,Married,62,3,Columbus,Ohio,43229,Low
+LC-16885,Lena Creighton,Unmarried,31,1,Roseville,California,95661,Very Low
+JD-15895,Jonathan Doherty,Married,57,0,Philadelphia,Pennsylvania,19140,Very Low
+SH-19975,Sally Hughsby,Unmarried,60,1,San Francisco,California,94122,Very Low
+SG-20080,Sandra Glassco,Unmarried,52,1,Independence,Missouri,64055,Very Low
+HA-14920,Helen Andreada,Married,48,1,Pasadena,California,91104,Moderate
+MG-17680,Maureen Gastineau,Unmarried,26,3,Newark,Ohio,43055,Very Low
+JE-16165,Justin Ellison,Married,49,0,Franklin,Wisconsin,53132,Very Low
+TW-21025,Tamara Willingham,Married,61,3,Scottsdale,Arizona,85254,Very Low
+SP-20650,Stephanie Phelps,Married,18,0,San Jose,California,95123,Low
+NK-18490,Neil Knudson,Married,61,0,Seattle,Washington,98105,Low
+DB-13060,Dave Brooks,Unmarried,50,1,Seattle,Washington,98115,Low
+NP-18670,Nora Paige,Married,64,3,Edmond,Oklahoma,73034,Very Low
+TT-21070,Ted Trevino,Married,67,0,Los Angeles,California,90045,Low
+EM-13960,Eric Murdock,Married,46,2,Philadelphia,Pennsylvania,19134,Low
+RD-19900,Ruben Dartt,Unmarried,26,2,Carlsbad,New Mexico,88220,Very Low
+MJ-17740,Max Jones,Married,40,0,Seattle,Washington,98115,Low
+BM-11140,Becky Martin,Married,67,3,San Antonio,Texas,78207,Low
+CS-12130,Chad Sievert,Married,51,0,Los Angeles,California,90004,Moderate
+JB-15400,Jennifer Braxton,Married,39,3,Chicago,Illinois,60623,Very Low
+SJ-20500,Shirley Jackson,Unmarried,69,0,Houston,Texas,77036,Very Low
+JK-15640,Jim Kriz,Married,31,0,New York City,New York,10009,Very Low
+DK-13150,David Kendrick,Married,20,0,Decatur,Illinois,62521,Very Low
+RM-19675,Robert Marley,Married,57,0,Monroe,Louisiana,71203,Moderate
+SK-19990,Sally Knutson,Married,44,1,Fairfield,Connecticut,6824,Moderate
+FM-14290,Frank Merwin,Married,45,3,Los Angeles,California,90032,Moderate
+AM-10360,Alice McCarthy,Married,45,2,Grand Prairie,Texas,75051,Very Low
+MP-17470,Mark Packer,Married,61,0,New York City,New York,10035,Moderate
+MZ-17515,Mary Zewe,Unmarried,52,1,Redlands,California,92374,Low
+CB-12025,Cassandra Brandow,Married,43,0,Hamilton,Ohio,45011,Moderate
+VM-21685,Valerie Mitchum,Married,69,0,Westfield,New Jersey,7090,Very Low
+FH-14365,Fred Hopkins,Unmarried,49,1,Philadelphia,Pennsylvania,19120,Low
+MB-17305,Maria Bertelson,Unmarried,43,0,Akron,Ohio,44312,Very Low
+BS-11755,Bruce Stewart,Married,59,2,Denver,Colorado,80219,Very Low
+LC-17140,Logan Currie,Unmarried,22,2,Dallas,Texas,75220,Low
+HK-14890,Heather Kirkland,Married,27,0,Franklin,Tennessee,37064,Very Low
+LE-16810,Laurel Elliston,Married,62,0,Whittier,California,90604,Very Low
+JH-15985,Joseph Holt,Married,51,1,Saginaw,Michigan,48601,Very Low
+MS-17980,Michael Stewart,Married,67,0,Dallas,Texas,75220,Very Low
+VW-21775,Victoria Wilson,Married,62,0,Medina,Ohio,44256,Very Low
+JH-15910,Jonathan Howell,Married,40,2,Los Angeles,California,90032,Very Low
+JB-15925,Joni Blumstein,Married,25,3,Dublin,Ohio,43017,Moderate
+DS-13180,David Smith,Married,41,2,Detroit,Michigan,48227,Low
+VD-21670,Valerie Dominguez,Married,69,0,Columbia,Tennessee,38401,Very Low
+EA-14035,Erin Ashbrook,Unmarried,61,0,Charlotte,North Carolina,28205,Very Low
+DB-13120,David Bremer,Married,60,2,Santa Clara,California,95051,Low
+KL-16645,Ken Lonsdale,Married,43,0,Chicago,Illinois,60610,Very Low
+DW-13480,Dianna Wilson,Married,25,3,Lakeville,Minnesota,55044,Low
+LH-17155,Logan Haushalter,Married,43,1,San Francisco,California,94109,Very Low
+KC-16540,Kelly Collister,Unmarried,39,3,San Diego,California,92037,Very Low
+DL-13315,Delfina Latchford,Unmarried,48,1,New York City,New York,10024,Low
+DR-12880,Dan Reichenbach,Married,68,0,Chicago,Illinois,60623,Moderate
+CC-12670,Craig Carreira,Unmarried,22,0,New York City,New York,10009,Low
+Dl-13600,Dorris liebe,Married,68,0,Pasadena,Texas,77506,Very Low
+SB-20290,Sean Braxton,Married,41,1,Houston,Texas,77036,Very Low
+RC-19825,Roy Collins,Married,54,0,Chicago,Illinois,60610,Very Low
+AH-10210,Alan Hwang,Married,58,2,Brentwood,California,94513,Very Low
+CB-12535,Claudia Bergmann,Married,63,0,Chapel Hill,North Carolina,27514,Very Low
+CA-12310,Christine Abelman,Unmarried,68,0,Cincinnati,Ohio,45231,Very Low
+KH-16690,Kristen Hastings,Married,36,3,San Francisco,California,94110,Very Low
+BB-10990,Barry Blumstein,Married,41,3,Inglewood,California,90301,Moderate
+AG-10495,Andrew Gjertsen,Married,24,0,Philadelphia,Pennsylvania,19140,Moderate
+JO-15280,Jas O'Carroll,Unmarried,39,3,Los Angeles,California,90004,Very Low
+AH-10195,Alan Haines,Unmarried,67,2,Tamarac,Florida,33319,Very Low
+NZ-18565,Nick Zandusky,Unmarried,23,0,Columbus,Ohio,43229,Very Low
+KL-16555,Kelly Lampkin,Unmarried,60,0,Colorado Springs,Colorado,80906,Moderate
+AS-10225,Alan Schoenberger,Married,31,2,New York City,New York,10024,Moderate
+CR-12625,Corey Roper,Unmarried,46,2,Lakewood,New Jersey,8701,Very Low
+SH-20395,Shahid Hopkins,Unmarried,66,0,Arlington,Virginia,22204,Moderate
+BP-11185,Ben Peterman,Unmarried,48,1,Arvada,Colorado,80004,Moderate
+TS-21205,Thomas Seio,Unmarried,21,2,Hackensack,New Jersey,7601,Very Low
+AG-10525,Andy Gerbode,Unmarried,69,0,Saint Petersburg,Florida,33710,Moderate
+SP-20860,Sung Pak,Unmarried,38,2,Philadelphia,Pennsylvania,19143,Very Low
+NM-18445,Nathan Mautz,Unmarried,21,0,New York City,New York,10024,Low
+FA-14230,Frank Atkinson,Unmarried,34,2,Long Beach,California,90805,Moderate
+GK-14620,Grace Kelly,Married,32,0,Hesperia,California,92345,Low
+DJ-13510,Don Jones,Married,67,2,Murfreesboro,Tennessee,37130,Moderate
+PO-18850,Patrick O'Brill,Married,59,3,Philadelphia,Pennsylvania,19143,Moderate
+JL-15850,John Lucas,Married,70,0,Philadelphia,Pennsylvania,19134,Very Low
+DB-13615,Doug Bickford,Married,19,0,Los Angeles,California,90045,Low
+AC-10420,Alyssa Crouse,Married,69,3,San Francisco,California,94122,Very Low
+CC-12550,Clay Cheatham,Unmarried,42,0,San Francisco,California,94122,Very Low
+TD-20995,Tamara Dahlen,Married,19,2,Lowell,Massachusetts,1852,Very Low
+AB-10060,Adam Bellavance,Unmarried,25,1,New York City,New York,10009,Very Low
+JL-15505,Jeremy Lonsdale,Married,48,0,New York City,New York,10035,Low
+VB-21745,Victoria Brennan,Married,27,2,Columbus,Georgia,31907,Low
+KW-16435,Katrina Willman,Unmarried,48,3,New York City,New York,10009,Very Low
+JD-16060,Julia Dunbar,Married,70,0,San Francisco,California,94109,Very Low
+MK-17905,Michael Kennedy,Married,20,0,Manchester,Connecticut,6040,Moderate
+GT-14755,Guy Thornton,Married,53,3,Harlingen,Texas,78550,Very Low
+AG-10900,Arthur Gainer,Married,56,1,Tucson,Arizona,85705,Very Low
+MM-18280,Muhammed MacIntyre,Married,59,2,Quincy,Illinois,62301,Low
+AR-10405,Allen Rosenblatt,Unmarried,66,0,Franklin,Massachusetts,2038,Very Low
+RA-19915,Russell Applegate,Married,47,1,Houston,Texas,77095,Very Low
+AS-10285,Alejandro Savely,Unmarried,53,2,San Francisco,California,94109,Very Low
+LA-16780,Laura Armstrong,Married,59,2,Taylor,Michigan,48180,Low
+DO-13435,Denny Ordway,Married,25,1,Pembroke Pines,Florida,33024,Moderate
+DK-13225,Dean Katz,Married,36,0,Philadelphia,Pennsylvania,19140,Low
+NG-18430,Nathan Gelder,Unmarried,50,0,Cincinnati,Ohio,45231,Low
+MV-18190,Mike Vittorini,Married,66,2,New York City,New York,10009,Moderate
+JG-15115,Jack Garza,Married,63,2,Des Moines,Washington,98198,Low
+BP-11095,Bart Pistole,Married,30,0,Peoria,Illinois,61604,Very Low
+VP-21730,Victor Preis,Married,35,3,Las Vegas,Nevada,89115,Very Low
+SS-20140,Saphhira Shifley,Married,33,0,Warwick,Rhode Island,2886,Very Low
+AG-10675,Anna Gayman,Married,69,2,Houston,Texas,77036,Very Low
+LF-17185,Luke Foster,Married,36,0,Miami,Florida,33180,Very Low
+RF-19840,Roy Franzosisch,Unmarried,57,2,New York City,New York,10024,Very Low
+KH-16510,Keith Herrera,Married,27,0,San Francisco,California,94110,Very Low
+KC-16675,Kimberly Carter,Married,31,1,Seattle,Washington,98105,Very Low
+CJ-12010,Caroline Jumper,Married,64,3,Huntington Beach,California,92646,Very Low
+PB-19150,Philip Brown,Married,30,2,Los Angeles,California,90004,Very Low
+MP-17965,Michael Paige,Married,18,2,Lawrence,Massachusetts,1841,Very Low
+NF-18385,Natalie Fritzler,Unmarried,23,2,Jackson,Mississippi,39212,Moderate
+SD-20485,Shirley Daniels,Married,70,0,New Rochelle,New York,10801,Moderate
+KH-16630,Ken Heidel,Unmarried,34,0,San Antonio,Texas,78207,Very Low
+RB-19795,Ross Baird,Unmarried,60,0,Gastonia,North Carolina,28052,Very Low
+MK-18160,Mike Kennedy,Married,22,3,Jacksonville,Florida,32216,Very Low
+PO-19180,Philisse Overcash,Unmarried,46,3,Chicago,Illinois,60623,Low
+BB-11545,Brenda Bowman,Married,60,0,Houston,Texas,77070,Very Low
+TB-21595,Troy Blackwell,Married,50,1,Columbus,Indiana,47201,Very Low
+RB-19360,Raymond Buch,Unmarried,70,0,Auburn,New York,13021,Moderate
+EB-13705,Ed Braxton,Married,41,2,Akron,Ohio,44312,Very Low
+SC-20095,Sanjit Chand,Married,27,2,Concord,California,94521,Moderate
+TN-21040,Tanja Norvell,Married,37,1,Phoenix,Arizona,85023,Low
+JS-15940,Joni Sundaresam,Married,26,3,Park Ridge,Illinois,60068,Very Low
+MH-17785,Maya Herman,Married,51,2,Lindenhurst,New York,11757,Moderate
+JP-15520,Jeremy Pistek,Married,54,0,San Francisco,California,94110,Very Low
+JE-15475,Jeremy Ellison,Married,30,0,Troy,New York,12180,Very Low
+JG-15805,John Grady,Unmarried,26,0,New York City,New York,10024,Moderate
+XP-21865,Xylona Preis,Married,32,0,San Diego,California,92024,Low
+EM-14065,Erin Mull,Married,48,2,New York City,New York,10024,Moderate
+MT-18070,Michelle Tran,Unmarried,69,3,Los Angeles,California,90045,Very Low
+SA-20830,Sue Ann Reed,Married,34,1,Chicago,Illinois,60610,Moderate
+CW-11905,Carl Weiss,Unmarried,31,0,Huntsville,Texas,77340,Moderate
+AJ-10960,Astrea Jones,Married,30,2,Rochester,New York,14609,Very Low
+SS-20590,Sonia Sunley,Married,51,2,Seattle,Washington,98115,Very Low
+RO-19780,Rose O'Brian,Married,25,1,Memphis,Tennessee,38109,Very Low
+MD-17350,Maribeth Dona,Unmarried,31,3,Fayetteville,Arkansas,72701,Very Low
+MY-17380,Maribeth Yedwab,Married,70,3,Parker,Colorado,80134,Low
+CM-12385,Christopher Martinez,Married,19,0,Atlanta,Georgia,30318,Very Low
+LS-17245,Lynn Smith,Unmarried,59,0,Gladstone,Missouri,64118,Moderate
+BN-11515,Bradley Nguyen,Unmarried,63,0,Los Angeles,California,90049,Low
+DB-13210,Dean Braden,Unmarried,41,2,Houston,Texas,77041,Very Low
+MC-17605,Matt Connell,Married,49,0,Detroit,Michigan,48234,Low
+BD-11605,Brian Dahlen,Unmarried,40,0,Lawrence,Massachusetts,1841,Very Low
+PH-18790,Patricia Hirasaki,Married,55,0,Lakeland,Florida,33801,Very Low
+MG-18145,Mike Gockenbach,Unmarried,51,1,Philadelphia,Pennsylvania,19134,Very Low
+KB-16240,Karen Bern,Married,42,3,Los Angeles,California,90036,Very Low
+JC-15340,Jasper Cacioppo,Married,39,1,Los Angeles,California,90032,Moderate
+RL-19615,Rob Lucas,Married,53,0,Montgomery,Alabama,36116,Very Low
+AA-10375,Allen Armold,Unmarried,22,2,Mesa,Arizona,85204,Very Low
+EP-13915,Emily Phan,Married,38,0,Chicago,Illinois,60653,Low
+DK-12985,Darren Koutras,Married,58,0,Henderson,Kentucky,42420,Very Low
+BD-11500,Bradley Drucker,Married,47,2,Green Bay,Wisconsin,54302,Very Low
+LM-17065,Liz MacKendrick,Married,32,3,Springfield,Ohio,45503,Low
+AS-10135,Adrian Shami,Unmarried,65,1,New York City,New York,10035,Very Low
+BD-11320,Bill Donatelli,Married,68,0,San Francisco,California,94110,Low
+GT-14710,Greg Tran,Married,67,3,Houston,Texas,77070,Moderate
+AJ-10945,Ashley Jarboe,Married,62,1,Wilmington,North Carolina,28403,Very Low
+OT-18730,Olvera Toch,Married,39,3,Los Angeles,California,90045,Low
+LP-17080,Liz Pelletier,Unmarried,22,0,San Francisco,California,94110,Low
+CA-12775,Cynthia Arntzen,Married,57,1,Tampa,Florida,33614,Low
+JF-15490,Jeremy Farry,Married,38,1,Seattle,Washington,98105,Low
+FP-14320,Frank Preis,Married,20,2,Los Angeles,California,90008,Very Low
+EB-13840,Ellis Ballard,Unmarried,25,0,Seattle,Washington,98105,Very Low
+JF-15415,Jennifer Ferguson,Married,40,1,New York City,New York,10024,Very Low
+SF-20200,Sarah Foster,Married,38,0,Marysville,Washington,98270,Low
+TG-21640,Trudy Glocke,Unmarried,41,0,Long Beach,California,90805,Very Low
+CS-11950,Carlos Soltero,Married,18,0,Chicago,Illinois,60610,Moderate
+CC-12145,Charles Crestani,Unmarried,21,2,Los Angeles,California,90004,Moderate
+DV-13465,Dianna Vittorini,Unmarried,60,3,Denver,Colorado,80219,Very Low
+BD-11725,Bruce Degenhardt,Married,36,3,Richmond,Kentucky,40475,Moderate
+ZC-21910,Zuschuss Carroll,Married,61,0,Salem,Oregon,97301,Moderate
+MS-17830,Melanie Seite,Unmarried,61,0,Laredo,Texas,78041,Very Low
+LR-16915,Lena Radford,Married,35,3,San Diego,California,92024,Very Low
+TP-21130,Theone Pippenger,Married,64,1,Philadelphia,Pennsylvania,19134,Low
+CK-12205,Chloris Kastensmidt,Married,61,0,Philadelphia,Pennsylvania,19120,Very Low
+AS-10240,Alan Shonely,Married,68,1,Tampa,Florida,33614,Moderate
+AR-10510,Andrew Roberts,Unmarried,58,0,Philadelphia,Pennsylvania,19134,Low
+NB-18655,Nona Balk,Married,42,0,Dallas,Texas,75217,Moderate
+GD-14590,Giulietta Dortch,Married,62,3,Philadelphia,Pennsylvania,19143,Moderate
+CK-12595,Clytie Kelty,Married,60,1,Grove City,Ohio,43123,Moderate
+NG-18355,Nat Gilpin,Married,57,1,New York City,New York,10011,Moderate
+CA-12265,Christina Anderson,Married,49,2,Chicago,Illinois,60610,Very Low
+SF-20965,Sylvia Foulston,Married,64,0,Dearborn,Michigan,48126,Low
+MO-17800,Meg O'Connel,Married,22,2,New York City,New York,10009,Very Low
+AT-10735,Annie Thurman,Unmarried,30,0,Seattle,Washington,98115,Low
+FM-14380,Fred McMath,Unmarried,30,2,Aurora,Colorado,80013,Moderate
+DJ-13420,Denny Joy,Married,21,3,Warner Robins,Georgia,31088,Moderate
+ME-17725,Max Engle,Unmarried,50,0,Aurora,Colorado,80013,Moderate
+JD-16150,Justin Deggeller,Married,37,0,Minneapolis,Minnesota,55407,Very Low
+JL-15835,John Lee,Married,57,0,Mission Viejo,California,92691,Very Low
+SC-20305,Sean Christensen,Married,30,0,Rochester Hills,Michigan,48307,Very Low
+CC-12430,Chuck Clark,Unmarried,66,1,Columbus,Indiana,47201,Very Low
+AR-10825,Anthony Rawles,Married,39,0,Vancouver,Washington,98661,Very Low
+SR-20740,Steven Roelle,Married,19,0,New York City,New York,10024,Very Low
+CR-12730,Craig Reiter,Married,25,1,Columbus,Ohio,43229,Very Low
+EH-14125,Eugene Hildebrand,Unmarried,41,0,Aurora,Illinois,60505,Very Low
+SP-20545,Sibella Parks,Unmarried,68,0,New York City,New York,10011,Moderate
+TH-21235,Tiffany House,Unmarried,28,0,Dallas,Texas,75081,Moderate
+RP-19390,Resi Polking,Unmarried,44,2,Cleveland,Ohio,44105,Very Low
+RB-19570,Rob Beeghly,Married,57,0,Columbus,Indiana,47201,Moderate
+CD-11980,Carol Darley,Married,61,2,Tyler,Texas,75701,Very Low
+DJ-13630,Doug Jacobs,Unmarried,41,1,New York City,New York,10024,Very Low
+GT-14635,Grant Thornton,Married,19,0,Burlington,North Carolina,27217,Low
+MC-17845,Michael Chen,Unmarried,50,0,Jackson,Mississippi,39212,Low
+RA-19285,Ralph Arnett,Unmarried,45,0,New York City,New York,10035,Very Low
+NP-18325,Naresj Patel,Unmarried,70,1,Waynesboro,Virginia,22980,Very Low
+AB-10165,Alan Barnes,Married,22,2,Los Angeles,California,90036,Low
+JO-15550,Jesus Ocampo,Married,58,0,Chester,Pennsylvania,19013,Low
+JK-15370,Jay Kimmel,Unmarried,27,0,Long Beach,California,90805,Very Low
+BN-11470,Brad Norvell,Unmarried,20,1,Cary,North Carolina,27511,Moderate
+DP-13165,David Philippe,Unmarried,50,2,New York City,New York,10035,Low
+TH-21550,Tracy Hopkins,Unmarried,48,2,New York City,New York,10035,Very Low
+AP-10915,Arthur Prichep,Married,61,0,Palm Coast,Florida,32137,Low
+RS-19765,Roland Schwarz,Married,45,2,Mount Vernon,New York,10550,Low
+SV-20365,Seth Vernon,Unmarried,22,1,Dover,Delaware,19901,Moderate
+CK-12325,Christine Kargatis,Married,53,3,Orem,Utah,84057,Very Low
+RD-19810,Ross DeVincentis,Unmarried,35,3,Los Angeles,California,90045,Very Low
+MR-17545,Mathew Reese,Unmarried,37,0,Philadelphia,Pennsylvania,19140,Very Low
+SC-20695,Steve Chapman,Married,46,0,Hialeah,Florida,33012,Low
+JF-15355,Jay Fein,Married,70,0,Austin,Texas,78745,Low
+EG-13900,Emily Grady,Married,60,3,Oceanside,New York,11572,Very Low
+DS-13030,Darrin Sayre,Married,62,0,Seattle,Washington,98115,Very Low
+PO-19195,Phillina Ober,Unmarried,45,0,Naperville,Illinois,60540,Moderate
+SS-20875,Sung Shariari,Unmarried,18,3,Dallas,Texas,75220,Low
+PB-19105,Peter Buhler,Married,32,0,Evanston,Illinois,60201,Low
+RF-19735,Roland Fjeld,Married,38,3,Trenton,Michigan,48183,Very Low
+YC-21895,Yoseph Carroll,Unmarried,42,0,San Francisco,California,94110,Very Low
+DC-13285,Debra Catini,Unmarried,48,3,Cottage Grove,Minnesota,55016,Moderate
+CP-12340,Christine Phan,Married,38,2,New York City,New York,10009,Very Low
+BF-11020,Barry Franzosisch,Married,67,0,Green Bay,Wisconsin,54302,Moderate
+LH-17020,Lisa Hazard,Married,60,3,Columbus,Ohio,43229,Low
+CS-12250,Chris Selesnick,Married,59,2,Bossier City,Louisiana,71111,Low
+AJ-10795,Anthony Johnson,Married,27,2,Saint Petersburg,Florida,33710,Very Low
+BV-11245,Benjamin Venier,Married,46,0,Des Moines,Iowa,50315,Very Low
+DL-12865,Dan Lawera,Married,26,3,Cincinnati,Ohio,45231,Low
+BM-11785,Bryan Mills,Unmarried,31,1,Columbus,Ohio,43229,Low
+LT-17110,Liz Thompson,Married,51,0,Lancaster,California,93534,Very Low
+JK-15730,Joe Kamberova,Unmarried,69,3,Asheville,North Carolina,28806,Low
+ES-14020,Erica Smith,Married,47,3,San Francisco,California,94110,Very Low
+RH-19495,Rick Hansen,Unmarried,19,1,Rochester,Minnesota,55901,Very Low
+CD-11920,Carlos Daly,Married,51,0,Lake Elsinore,California,92530,Very Low
+HW-14935,Helen Wasserman,Married,55,0,San Diego,California,92105,Very Low
+MC-18130,Mike Caudle,Married,59,1,Monroe,Louisiana,71203,Low
+GM-14440,Gary McGarr,Married,19,1,San Francisco,California,94122,Very Low
+PJ-19015,Pauline Johnson,Unmarried,48,0,Santa Ana,California,92704,Very Low
+BW-11110,Bart Watters,Married,50,2,Milwaukee,Wisconsin,53209,Very Low
+TR-21325,Toby Ritter,Married,45,0,Belleville,New Jersey,7109,Very Low
+PG-18820,Patrick Gardner,Married,38,2,San Francisco,California,94110,Moderate
+JL-15175,James Lanier,Married,25,0,Columbia,Tennessee,38401,Very Low
+BM-11650,Brian Moss,Married,48,0,New York City,New York,10035,Moderate
+EM-14095,Eudokia Martin,Unmarried,56,0,Los Angeles,California,90036,Low
+AF-10885,Art Foster,Married,40,1,Louisville,Kentucky,40214,Very Low
+GA-14725,Guy Armstrong,Unmarried,32,1,Lorain,Ohio,44052,Very Low
+CK-12760,Cyma Kinney,Married,18,0,Linden,New Jersey,7036,Low
+DP-13105,Dave Poirier,Married,66,2,Salinas,California,93905,Moderate
+BK-11260,Berenike Kampe,Married,37,0,New York City,New York,10035,Moderate
+SJ-20125,Sanjit Jacobs,Unmarried,38,2,New Brunswick,New Jersey,8901,Low
+CM-12445,Chuck Magee,Unmarried,27,3,San Francisco,California,94122,Very Low
+AJ-10780,Anthony Jacobs,Married,47,1,Springfield,Virginia,22153,Moderate
+LS-16945,Linda Southworth,Married,21,0,Philadelphia,Pennsylvania,19140,Very Low
+GP-14740,Guy Phonely,Married,28,3,Lancaster,Pennsylvania,17602,Very Low
+PK-18910,Paul Knutson,Unmarried,42,2,Philadelphia,Pennsylvania,19143,Very Low
+SM-20005,Sally Matthias,Married,51,0,New York City,New York,10009,Low
+AG-10765,Anthony Garverick,Married,40,0,Philadelphia,Pennsylvania,19120,Low
+PM-19135,Peter McVee,Unmarried,65,3,Detroit,Michigan,48227,Low
+LL-16840,Lauren Leatherbury,Unmarried,29,2,Rochester,New York,14609,Very Low
+JS-15595,Jill Stevenson,Unmarried,65,0,Los Angeles,California,90045,Very Low
+EL-13735,Ed Ludwig,Married,42,0,Columbia,Maryland,21044,Very Low
+PC-18745,Pamela Coakley,Married,25,0,San Francisco,California,94122,Low
+HL-15040,Hunter Lopez,Married,65,0,Houston,Texas,77095,Moderate
+MS-17365,Maribeth Schnelling,Married,55,0,Detroit,Michigan,48227,Very Low
+GB-14530,George Bell,Unmarried,41,1,Auburn,New York,13021,Low
+JR-16210,Justin Ritter,Unmarried,68,1,Springfield,Ohio,45503,Very Low
+BE-11335,Bill Eplett,Unmarried,20,1,Jackson,Michigan,49201,Moderate
+SC-20050,Sample Company A,Unmarried,38,0,Norwich,Connecticut,6360,Low
+RW-19630,Rob Williams,Married,23,0,Dallas,Texas,75220,Very Low
+SE-20110,Sanjit Engle,Married,28,1,New York City,New York,10009,Very Low
+AH-10075,Adam Hart,Unmarried,21,0,New York City,New York,10011,Low
+JM-15535,Jessica Myrick,Married,36,0,Philadelphia,Pennsylvania,19143,Very Low
+JJ-15760,Joel Jenkins,Married,59,0,Springfield,Virginia,22153,Low
+RK-19300,Ralph Kennedy,Unmarried,29,2,Philadelphia,Pennsylvania,19140,Moderate
+CG-12040,Catherine Glotzbach,Unmarried,27,0,Philadelphia,Pennsylvania,19120,Very Low
+RP-19270,Rachel Payne,Unmarried,47,1,Riverside,California,92503,Low
+KC-16255,Karen Carlisle,Unmarried,23,3,San Francisco,California,94110,Low
+KH-16360,Katherine Hughes,Unmarried,69,0,Philadelphia,Pennsylvania,19143,Moderate
+GH-14665,Greg Hansen,Married,67,0,Round Rock,Texas,78664,Very Low
+SW-20275,Scott Williamson,Married,35,3,Jackson,Mississippi,39212,Very Low
+JA-15970,Joseph Airdo,Married,56,3,Phoenix,Arizona,85023,Very Low
+DL-12925,Daniel Lacy,Married,23,0,Oceanside,California,92054,Low
+LW-16990,Lindsay Williams,Married,58,0,San Francisco,California,94110,Moderate
+TB-21190,Thomas Brumley,Married,29,0,Fayetteville,Arkansas,72701,Moderate
+BS-11800,Bryan Spruell,Unmarried,53,2,New York City,New York,10011,Moderate
+RW-19690,Robert Waldorf,Married,29,0,Wilmington,North Carolina,28403,Moderate
+TZ-21580,Tracy Zic,Unmarried,65,0,Louisville,Colorado,80027,Very Low
+AS-10630,Ann Steele,Unmarried,54,0,Pasadena,Texas,77506,Low
+TS-21340,Toby Swindell,Unmarried,67,0,Houston,Texas,77041,Very Low
+SL-20155,Sara Luxemburg,Married,55,2,Jacksonville,Florida,32216,Low
+MW-18235,Mitch Willingham,Married,30,0,Virginia Beach,Virginia,23464,Very Low
+RD-19585,Rob Dowd,Married,60,0,Henderson,Kentucky,42420,Moderate
+RA-19945,Ryan Akin,Married,39,2,Murrieta,California,92563,Very Low
+MT-17815,Meg Tillman,Married,58,0,Scottsdale,Arizona,85254,Moderate
+VG-21790,Vivek Gonzalez,Married,44,3,San Diego,California,92037,Very Low
+JS-15880,John Stevenson,Married,60,2,Seattle,Washington,98103,Low
+KM-16225,Kalyca Meade,Married,57,2,New York City,New York,10011,Moderate
+HR-14770,Hallie Redmond,Unmarried,67,2,Los Angeles,California,90045,Moderate
+DE-13255,Deanra Eno,Married,42,2,Springfield,Ohio,45503,Very Low
+AG-10390,Allen Goldenen,Married,47,0,Cincinnati,Ohio,45231,Very Low
+JJ-15445,Jennifer Jackson,Unmarried,47,0,Los Angeles,California,90004,Moderate
+JH-15430,Jennifer Halladay,Unmarried,48,0,Burlington,North Carolina,27217,Low
+RD-19660,Robert Dilbeck,Married,53,2,Saint Peters,Missouri,63376,Very Low
+MO-17500,Mary O'Rourke,Married,25,0,New York City,New York,10035,Low
+NS-18640,Noel Staavos,Unmarried,37,0,Chicago,Illinois,60610,Moderate
+DG-13300,Deirdre Greer,Unmarried,60,0,Philadelphia,Pennsylvania,19134,Very Low
+NF-18595,Nicole Fjeld,Married,42,0,New York City,New York,10009,Low
+MG-17650,Matthew Grinstein,Unmarried,53,2,Philadelphia,Pennsylvania,19143,Very Low
+TS-21160,Theresa Swint,Unmarried,27,2,Toledo,Ohio,43615,Low
+BD-11620,Brian DeCherney,Married,46,3,San Francisco,California,94122,Very Low
+CM-12160,Charles McCrossin,Married,58,0,Brownsville,Texas,78521,Moderate
+SN-20560,Skye Norling,Married,65,0,Los Angeles,California,90008,Very Low
+EH-14005,Erica Hernandez,Married,38,3,Denver,Colorado,80219,Very Low
+FO-14305,Frank Olsen,Unmarried,22,0,New York City,New York,10035,Low
+MS-17710,Maurice Satty,Married,46,1,Mesa,Arizona,85204,Very Low
+CC-12100,Chad Cunningham,Married,30,2,Columbus,Indiana,47201,Low
+DW-13540,Don Weiss,Married,60,0,Seattle,Washington,98105,Moderate
+BT-11395,Bill Tyler,Unmarried,32,0,Detroit,Michigan,48227,Moderate
+CY-12745,Craig Yedwab,Married,36,0,Oakland,California,94601,Very Low
+BT-11485,Brad Thomas,Married,66,0,Clinton,Maryland,20735,Low
+PS-19045,Penelope Sewall,Married,23,0,Charlotte,North Carolina,28205,Very Low
+PV-18985,Paul Van Hugh,Married,64,0,San Francisco,California,94122,Very Low
+NM-18520,Neoma Murray,Unmarried,45,2,Riverside,California,92503,Moderate
+DL-13495,Dionis Lloyd,Married,52,3,San Francisco,California,94110,Very Low
+CS-12355,Christine Sundaresam,Married,63,0,Roswell,Georgia,30076,Very Low
+FH-14275,Frank Hawley,Unmarried,26,0,La Porte,Indiana,46350,Low
+NC-18340,Nat Carroll,Married,45,1,Lansing,Michigan,48911,Moderate
+AA-10315,Alex Avila,Married,66,3,Minneapolis,Minnesota,55407,Very Low
+LT-16765,Larry Tron,Unmarried,42,1,Escondido,California,92025,Moderate
+AP-10720,Anne Pryor,Married,18,0,New York City,New York,10035,Very Low
+PM-18940,Paul MacIntyre,Unmarried,41,0,Jackson,Michigan,49201,Moderate
+AT-10435,Alyssa Tate,Unmarried,19,3,Los Angeles,California,90004,Moderate
+CA-12055,Cathy Armstrong,Married,67,0,Houston,Texas,77070,Very Low
+HR-14830,Harold Ryan,Married,69,2,Seattle,Washington,98103,Moderate
+BT-11530,Bradley Talbott,Married,34,1,Los Angeles,California,90036,Moderate
+LH-16750,Larry Hughes,Married,37,0,Charlotte,North Carolina,28205,Very Low
+SW-20755,Steven Ward,Married,57,3,New York City,New York,10009,Moderate
+SP-20620,Stefania Perrino,Married,32,2,Philadelphia,Pennsylvania,19134,Moderate
+BF-11170,Ben Ferrer,Married,19,2,Los Angeles,California,90036,Moderate
+KT-16480,Kean Thornton,Married,51,2,Buffalo,New York,14215,Low
+BG-11695,Brooke Gillingham,Unmarried,46,3,Cincinnati,Ohio,45231,Moderate
+GM-14680,Greg Matthias,Married,69,2,Seattle,Washington,98105,Very Low
+EJ-14155,Eva Jacobs,Unmarried,22,0,Gulfport,Mississippi,39503,Very Low
+NP-18700,Nora Preis,Married,32,0,Fresno,California,93727,Very Low
+MH-18115,Mick Hernandez,Unmarried,25,0,Chester,Pennsylvania,19013,Moderate
+JR-15700,Jocasta Rupert,Married,69,0,Jacksonville,Florida,32216,Very Low
+SM-20950,Suzanne McNair,Unmarried,54,0,Greenville,North Carolina,27834,Very Low
+CC-12220,Chris Cortes,Married,18,3,La Porte,Indiana,46350,Low
+PF-19225,Phillip Flathmann,Married,49,0,San Francisco,California,94122,Moderate
+DC-12850,Dan Campbell,Married,50,0,Florence,Alabama,35630,Low
+BD-11770,Bryan Davis,Married,50,0,Houston,Texas,77070,Low
+GM-14500,Gene McClure,Married,41,1,Providence,Rhode Island,2908,Moderate
+TB-21355,Todd Boyes,Unmarried,53,0,New York City,New York,10009,Low
+JH-16180,Justin Hirsh,Married,57,0,Pueblo,Colorado,81001,Low
+EB-13975,Erica Bern,Married,53,1,Fairfield,California,94533,Very Low
+QJ-19255,Quincy Jones,Married,48,1,Saint Paul,Minnesota,55106,Very Low
+TC-21535,Tracy Collins,Married,57,2,Arlington,Virginia,22204,Low
+CS-12460,Chuck Sachs,Married,44,1,Columbus,Georgia,31907,Very Low
+HG-14965,Henry Goldwyn,Unmarried,32,0,Los Angeles,California,90032,Low
+LW-16825,Laurel Workman,Unmarried,64,0,Deltona,Florida,32725,Very Low
+MC-17575,Matt Collins,Married,25,3,Cincinnati,Ohio,45231,Moderate
+LP-17095,Liz Preis,Unmarried,58,0,Murray,Kentucky,42071,Low
+EB-14170,Evan Bailliet,Married,64,0,Wilmington,North Carolina,28403,Low
+GZ-14545,George Zrebassa,Married,56,3,Lawrence,Massachusetts,1841,Low
+CP-12085,Cathy Prescott,Unmarried,62,3,Norwich,Connecticut,6360,Moderate
+FG-14260,Frank Gastineau,Unmarried,67,0,San Francisco,California,94110,Very Low
+LD-17005,Lisa DeCherney,Married,65,2,San Francisco,California,94109,Very Low
+AB-10255,Alejandro Ballentine,Unmarried,34,2,Lorain,Ohio,44052,Very Low
+MN-17935,Michael Nguyen,Unmarried,41,2,Dallas,Texas,75220,Very Low
+JR-15670,Jim Radford,Married,18,2,Middletown,Connecticut,6457,Very Low
+JF-15190,Jamie Frazer,Married,26,0,Los Angeles,California,90008,Very Low
+CM-12115,Chad McGuire,Married,50,0,New York City,New York,10011,Very Low
+AS-10045,Aaron Smayling,Married,42,0,Jacksonville,North Carolina,28540,Moderate
+BP-11290,Beth Paige,Unmarried,26,3,Evanston,Illinois,60201,Moderate
+ND-18370,Natalie DeCherney,Unmarried,41,0,Louisville,Kentucky,40214,Very Low
+LB-16735,Larry Blacks,Married,65,0,Fort Worth,Texas,76106,Low
+KT-16465,Kean Takahito,Married,24,3,Los Angeles,California,90049,Very Low
+HM-14860,Harry Marie,Unmarried,64,0,Philadelphia,Pennsylvania,19120,Low
+AB-10600,Ann Blume,Unmarried,34,0,Tucson,Arizona,85705,Very Low
+SZ-20035,Sam Zeldin,Married,39,1,Pico Rivera,California,90660,Very Low
+MG-17890,Michael Granlund,Unmarried,31,0,Clinton,Maryland,20735,Very Low
+JK-16120,Julie Kriz,Married,67,2,Aurora,Illinois,60505,Low
+PP-18955,Paul Prost,Married,44,2,Smyrna,Georgia,30080,Very Low
+YS-21880,Yana Sorensen,Married,31,2,Burlington,North Carolina,27217,Low
+KM-16375,Katherine Murray,Unmarried,70,0,Salem,Virginia,24153,Moderate
+AB-10105,Adrian Barton,Unmarried,63,2,Phoenix,Arizona,85023,Very Low
+HA-14905,Helen Abelman,Married,58,0,New York City,New York,10024,Very Low
+BT-11305,Beth Thompson,Unmarried,38,0,Costa Mesa,California,92627,Moderate
+SV-20815,Stuart Van,Unmarried,42,0,Houston,Texas,77041,Low
+RW-19540,Rick Wilson,Unmarried,52,0,Mesa,Arizona,85204,Very Low
+DK-12835,Damala Kotsonis,Unmarried,57,0,Salinas,California,93905,Very Low
+ST-20530,Shui Tom,Married,26,3,Parma,Ohio,44134,Very Low
+MM-17920,Michael Moore,Married,41,0,San Francisco,California,94110,Moderate
+PW-19030,Pauline Webber,Married,47,0,Richmond,Kentucky,40475,Low
+SC-20440,Shaun Chance,Married,28,0,Aurora,Colorado,80013,Very Low
+TS-21085,Thais Sissman,Married,21,0,Phoenix,Arizona,85023,Low
+MC-17425,Mark Cousins,Unmarried,50,0,Mobile,Alabama,36608,Very Low
+ME-17320,Maria Etezadi,Unmarried,48,1,Columbus,Georgia,31907,Very Low
+NH-18610,Nicole Hansen,Married,44,0,Irving,Texas,75061,Low
+MB-18085,Mick Brown,Married,54,1,Vineland,New Jersey,8360,Low
+KD-16495,Keith Dawkins,Married,68,1,New York City,New York,10009,Very Low
+KN-16390,Katherine Nockton,Married,43,2,Los Angeles,California,90004,Low
+NP-18685,Nora Pelletier,Married,42,2,Niagara Falls,New York,14304,Very Low
+CS-12505,Cindy Stewart,Unmarried,41,0,Thomasville,North Carolina,27360,Very Low
+MS-17770,Maxwell Schwartz,Married,47,3,New York City,New York,10035,Moderate
+CM-12655,Corinna Mitchell,Married,33,3,Los Angeles,California,90008,Low
+Co-12640,Corey-Lock,Married,55,0,Philadelphia,Pennsylvania,19143,Very Low
+TS-21370,Todd Sumrall,Married,62,3,New York City,New York,10035,Very Low
+JW-15220,Jane Waco,Married,24,3,Vancouver,Washington,98661,Very Low
+JD-15790,John Dryer,Married,26,2,Coppell,Texas,75019,Very Low
+PC-19000,Pauline Chand,Married,49,0,Los Angeles,California,90004,Very Low
+AR-10540,Andy Reiter,Married,48,3,New York City,New York,10024,Very Low
+AI-10855,Arianne Irving,Married,35,0,Philadelphia,Pennsylvania,19120,Very Low
+TB-21400,Tom Boeckenhauer,Married,37,2,Seattle,Washington,98105,Moderate
+PL-18925,Paul Lucas,Unmarried,20,0,Chicago,Illinois,60610,Very Low
+GH-14425,Gary Hwang,Married,63,3,Tucson,Arizona,85705,Low
+MP-18175,Mike Pelletier,Married,34,0,Laguna Niguel,California,92677,Very Low
+JM-15655,Jim Mitchum,Married,28,0,Bridgeton,New Jersey,8302,Very Low
+CL-11890,Carl Ludwig,Married,63,2,Everett,Massachusetts,2149,Moderate
+DB-13270,Deborah Brumfield,Married,24,0,San Diego,California,92024,Very Low
+IG-15085,Ivan Gibson,Married,63,1,San Diego,California,92024,Very Low
+BO-11425,Bobby Odegard,Married,63,3,Richmond,Kentucky,40475,Moderate
+AB-10150,Aimee Bixby,Married,65,0,Long Beach,New York,11561,Very Low
+JW-16075,Julia West,Unmarried,25,2,Philadelphia,Pennsylvania,19140,Very Low
+EB-13750,Edward Becker,Married,20,3,Seattle,Washington,98103,Low
+SG-20470,Sheri Gordon,Unmarried,44,3,New York City,New York,10011,Very Low
+CM-12190,Charlotte Melton,Married,66,0,Philadelphia,Pennsylvania,19134,Very Low
+AW-10840,Anthony Witt,Married,37,2,Allen,Texas,75002,Low
+MC-18100,Mick Crebagga,Married,65,1,El Paso,Texas,79907,Low
+TT-21460,Tonja Turnell,Married,22,2,Aurora,Illinois,60505,Low
+VG-21805,Vivek Grady,Married,54,0,Virginia Beach,Virginia,23464,Very Low
+MY-18295,Muhammed Yedwab,Unmarried,25,1,Grapevine,Texas,76051,Very Low
+RD-19480,Rick Duston,Unmarried,47,1,Olympia,Washington,98502,Moderate
+DP-13390,Dennis Pardue,Unmarried,44,3,Peoria,Illinois,61604,Very Low
+ML-17395,Marina Lichtenstein,Married,44,1,Los Angeles,California,90008,Very Low
+JC-15385,Jenna Caffey,Married,35,1,Kent,Washington,98031,Low
+JG-15160,James Galang,Married,37,3,Los Angeles,California,90049,Very Low
+MC-17275,Marc Crier,Married,24,3,Lafayette,Louisiana,70506,Moderate
+NW-18400,Natalie Webber,Married,29,0,Tigard,Oregon,97224,Very Low
+TB-21280,Toby Braunhardt,Married,24,0,Washington,District of Columbia,20016,Very Low
+BS-11380,Bill Stewart,Unmarried,53,3,Skokie,Illinois,60076,Very Low
+HH-15010,Hilary Holden,Married,58,0,San Francisco,California,94110,Very Low
+CD-12280,Christina DeMoss,Unmarried,42,0,Seattle,Washington,98105,Moderate
+TH-21100,Thea Hendricks,Married,21,0,Los Angeles,California,90045,Very Low
+MM-18055,Michelle Moray,Married,19,1,Seattle,Washington,98115,Low
+NS-18505,Neola Schneider,Married,54,0,Dallas,Texas,75217,Low
+RB-19645,Robert Barroso,Married,40,2,North Las Vegas,Nevada,89031,Low
+SW-20455,Shaun Weien,Married,21,0,Suffolk,Virginia,23434,Low
+EB-13930,Eric Barreto,Married,63,0,San Francisco,California,94110,Very Low
+PS-18760,Pamela Stobb,Married,36,0,Los Angeles,California,90008,Low
+HF-14995,Herbert Flentye,Unmarried,19,0,Indianapolis,Indiana,46203,Very Low
+HZ-14950,Henia Zydlo,Unmarried,32,0,Columbus,Ohio,43229,Very Low
+CD-12790,Cynthia Delaney,Married,70,0,San Diego,California,92037,Moderate
+JK-15205,Jamie Kunitz,Unmarried,48,0,San Francisco,California,94122,Low
+FM-14215,Filia McAdams,Married,62,0,Dublin,Ohio,43017,Moderate
+ED-13885,Emily Ducich,Married,28,3,San Diego,California,92037,Low
+DA-13450,Dianna Arnett,Married,38,0,Houston,Texas,77095,Very Low
+JW-15955,Joni Wasserman,Married,45,0,Oakland,California,94601,Very Low
+RM-19375,Raymond Messe,Married,39,2,Houston,Texas,77095,Low
+ML-17755,Max Ludwig,Married,22,1,Suffolk,Virginia,23434,Very Low
+CC-12685,Craig Carroll,Married,59,0,Greensboro,North Carolina,27405,Very Low
+JE-15610,Jim Epp,Unmarried,38,1,Milwaukee,Wisconsin,53209,Very Low
+RP-19855,Roy Phan,Married,50,0,Kenosha,Wisconsin,53142,Very Low
+TB-21175,Thomas Boland,Unmarried,45,0,Houston,Texas,77041,Moderate
+BE-11455,Brad Eason,Unmarried,20,0,Olathe,Kansas,66062,Low
+JF-15565,Jill Fjeld,Unmarried,36,0,Dallas,Texas,75081,Low
+PB-19210,Phillip Breyer,Married,32,1,Tulsa,Oklahoma,74133,Very Low
+BT-11680,Brian Thompson,Unmarried,70,2,Newark,Ohio,43055,Very Low
+JL-15235,Janet Lee,Married,29,3,Chicago,Illinois,60623,Very Low
+CH-12070,Cathy Hwang,Married,36,0,Raleigh,North Carolina,27604,Moderate
+ND-18460,Neil Ducich,Married,33,2,Macon,Georgia,31204,Low
+BF-10975,Barbara Fisher,Unmarried,47,1,Charlotte,North Carolina,28205,Very Low
+KH-16330,Katharine Harms,Married,66,0,Bowling Green,Kentucky,42104,Very Low
+GW-14605,Giulietta Weimer,Married,49,2,Seattle,Washington,98115,Low
+NC-18625,Noah Childs,Married,48,0,Aurora,Colorado,80013,Low
+ME-18010,Michelle Ellison,Unmarried,34,2,San Francisco,California,94122,Moderate
+BP-11230,Benjamin Patterson,Married,19,0,Spokane,Washington,99207,Very Low
+JC-15775,John Castell,Unmarried,22,3,San Antonio,Texas,78207,Very Low
+AS-10090,Adam Shillingsburg,Unmarried,46,2,Charlottesville,Virginia,22901,Very Low
+AC-10450,Amy Cox,Unmarried,46,0,Minneapolis,Minnesota,55407,Very Low
+MD-17860,Michael Dominguez,Unmarried,21,3,Indianapolis,Indiana,46203,Low
+DB-13660,Duane Benoit,Unmarried,21,0,Oceanside,New York,11572,Moderate
+EH-13990,Erica Hackney,Married,22,2,Roswell,Georgia,30076,Very Low
+EH-13765,Edward Hooks,Married,44,2,Watertown,New York,13601,Low
+SC-20230,Scot Coram,Married,20,2,Arlington,Texas,76017,Very Low
+JE-15715,Joe Elijah,Married,44,2,Broomfield,Colorado,80020,Very Low
+AC-10615,Ann Chong,Unmarried,61,0,New York City,New York,10009,Moderate
+JD-16015,Joy Daniels,Married,23,0,Chicago,Illinois,60610,Moderate
+CB-12415,Christy Brittain,Married,47,1,Columbus,Ohio,43229,Low
+JS-16030,Joy Smith,Unmarried,51,0,Houston,Texas,77036,Very Low
+LW-17215,Luke Weiss,Married,60,0,Pasadena,California,91104,Low
+SC-20800,Stuart Calhoun,Unmarried,20,1,Houston,Texas,77041,Very Low
+AM-10705,Anne McFarland,Married,28,2,Auburn,Alabama,36830,Very Low
+RH-19510,Rick Huthwaite,Married,67,0,Providence,Rhode Island,2908,Moderate
+CT-11995,Carol Triggs,Married,57,0,Rochester,Minnesota,55901,Moderate
+MC-17590,Matt Collister,Married,36,2,Perth Amboy,New Jersey,8861,Moderate
+CC-12610,Corey Catlett,Married,18,3,Philadelphia,Pennsylvania,19134,Low
+KA-16525,Kelly Andreada,Married,59,3,Ontario,California,91761,Very Low
+TC-20980,Tamara Chand,Married,29,1,Seattle,Washington,98105,Low
+BF-11080,Bart Folk,Married,23,0,Baltimore,Maryland,21215,Moderate
+MM-17260,Magdelene Morse,Married,49,0,Wilmington,Delaware,19805,Very Low
+AH-10120,Adrian Hane,Unmarried,27,3,Tucson,Arizona,85705,Very Low
+BW-11200,Ben Wallace,Married,31,0,Boynton Beach,Florida,33437,Very Low
+SW-20245,Scot Wooten,Unmarried,20,1,Stockton,California,95207,Very Low
+BS-11665,Brian Stugart,Married,21,0,Philadelphia,Pennsylvania,19143,Very Low
+RF-19345,Randy Ferguson,Married,48,0,Dover,New Hampshire,3820,Moderate
+WB-21850,William Brown,Married,38,1,Philadelphia,Pennsylvania,19134,Low
+TB-21625,Trudy Brown,Married,63,0,Grand Prairie,Texas,75051,Very Low
+AF-10870,Art Ferguson,Unmarried,63,2,College Station,Texas,77840,Moderate
+RB-19435,Richard Bierner,Married,18,3,Saint Louis,Missouri,63116,Very Low
+KF-16285,Karen Ferguson,Married,65,2,Manteca,California,95336,Moderate
+JH-15820,John Huston,Unmarried,37,1,Kent,Ohio,44240,Very Low
+IL-15100,Ivan Liston,Married,53,0,San Francisco,California,94122,Very Low
+PB-18805,Patrick Bzostek,Married,61,2,Salt Lake City,Utah,84106,Low
+RH-19600,Rob Haberlin,Unmarried,21,3,Huntsville,Alabama,35810,Moderate
+AW-10930,Arthur Wiediger,Unmarried,58,0,Aurora,Illinois,60505,Moderate
+ML-17410,Maris LaWare,Unmarried,30,2,Fairfield,Connecticut,6824,Very Low
+DB-13555,Dorothy Badders,Unmarried,58,0,Jacksonville,Florida,32216,Very Low
+MH-17620,Matt Hagelstein,Married,22,0,San Francisco,California,94110,Very Low
+DK-13375,Dennis Kane,Married,56,2,Marion,Ohio,43302,Moderate
+BT-11440,Bobby Trafton,Married,20,0,Littleton,Colorado,80122,Low
+DB-13405,Denny Blanton,Unmarried,41,0,La Porte,Indiana,46350,Very Low
+TG-21310,Toby Gnade,Married,68,0,Los Angeles,California,90049,Low
+BF-11005,Barry Franz,Married,56,0,Pasadena,California,91104,Moderate
+JM-16195,Justin MacKendrick,Married,18,0,Los Angeles,California,90004,Very Low
+MZ-17335,Maria Zettner,Unmarried,29,0,San Diego,California,92024,Very Low
+MW-18220,Mitch Webber,Married,69,0,New York City,New York,10035,Very Low
+MV-17485,Mark Van Huff,Married,54,2,Arlington,Virginia,22204,Very Low
+SM-20320,Sean Miller,Married,62,2,Monroe,North Carolina,28110,Low
+TP-21415,Tom Prescott,Married,52,2,Seattle,Washington,98115,Low
+JK-15625,Jim Karlsson,Married,34,0,Seattle,Washington,98115,Very Low
+PJ-18835,Patrick Jones,Married,19,0,Murfreesboro,Tennessee,37130,Very Low
+RS-19420,Ricardo Sperren,Unmarried,44,3,Seattle,Washington,98115,Low
+SV-20935,Susan Vittorini,Married,53,1,New York City,New York,10009,Very Low
+BC-11125,Becky Castell,Unmarried,35,0,Peoria,Arizona,85345,Very Low
+EM-13825,Elizabeth Moffitt,Unmarried,63,0,Sioux Falls,South Dakota,57103,Low
+BM-11575,Brendan Murry,Married,22,0,New York City,New York,10035,Moderate
+KN-16705,Kristina Nunn,Married,65,3,Fort Collins,Colorado,80525,Very Low
+KW-16570,Kelly Williams,Married,50,2,Clarksville,Tennessee,37042,Very Low
+SC-20260,Scott Cohen,Married,24,1,San Francisco,California,94122,Moderate
+CV-12295,Christina VanderZanden,Unmarried,58,3,Fresno,California,93727,Very Low
+SG-20605,Speros Goranitis,Married,69,2,New York City,New York,10009,Very Low
+TM-21010,Tamara Manning,Married,31,0,San Francisco,California,94122,Very Low
+EM-13810,Eleni McCrary,Unmarried,59,2,Los Angeles,California,90036,Low
+ML-18040,Michelle Lonsdale,Unmarried,22,2,Albuquerque,New Mexico,87105,Low
+CR-12580,Clay Rozendal,Married,52,0,Elmhurst,Illinois,60126,Moderate
+AZ-10750,Annie Zypern,Married,59,1,New York City,New York,10009,Very Low
+PW-19240,Pierre Wener,Married,70,0,Louisville,Colorado,80027,Very Low
+SC-20380,Shahid Collister,Married,68,2,Seattle,Washington,98115,Low
+CM-11935,Carlos Meador,Unmarried,56,2,Fayetteville,North Carolina,28314,Very Low
+GM-14695,Greg Maxwell,Married,49,3,Los Angeles,California,90036,Very Low
+TB-21250,Tim Brockman,Married,39,1,New York City,New York,10024,Low
+JM-15865,John Murray,Married,66,1,Jamestown,New York,14701,Low
+SC-20575,Sonia Cooley,Married,58,3,Mishawaka,Indiana,46544,Low
+LS-17200,Luke Schmidt,Married,59,3,Skokie,Illinois,60076,Very Low
+RR-19315,Ralph Ritter,Married,31,0,San Francisco,California,94110,Moderate
+DB-12910,Daniel Byrd,Unmarried,38,1,Tampa,Florida,33614,Very Low
+TT-21220,Thomas Thornton,Married,47,2,Houston,Texas,77041,Low
+LO-17170,Lori Olson,Married,29,0,La Quinta,California,92253,Low
+KD-16615,Ken Dana,Married,41,0,Scottsdale,Arizona,85254,Very Low
+NB-18580,Nicole Brennan,Married,33,0,Philadelphia,Pennsylvania,19134,Very Low
+BD-11635,Brian Derr,Married,42,0,Bowling Green,Kentucky,42104,Low
+CM-12235,Chris McAfee,Married,35,0,Carrollton,Texas,75007,Very Low
+EN-13780,Edward Nazzal,Married,64,2,New York City,New York,10035,Very Low
+KN-16450,Kean Nguyen,Married,47,0,Jacksonville,Florida,32216,Very Low
+BO-11350,Bill Overfelt,Unmarried,46,2,Los Angeles,California,90045,Very Low
+AG-10300,Aleksandra Gannaway,Unmarried,68,0,Los Angeles,California,90049,Low
+MC-17635,Matthew Clasen,Married,49,0,Saint Louis,Missouri,63116,Very Low
+TA-21385,Tom Ashbrook,Married,19,0,New York City,New York,10024,Very Low
+JF-15295,Jason Fortune-,Married,59,3,Seattle,Washington,98103,Low
+TT-21265,Tim Taslimi,Married,69,1,Los Angeles,California,90045,Very Low
+SB-20170,Sarah Bern,Married,62,0,New York City,New York,10035,Low
+CL-12700,Craig Leslie,Married,36,0,Springfield,Missouri,65807,Very Low
+HG-15025,Hunter Glantz,Unmarried,30,0,Amarillo,Texas,79109,Low
+NL-18310,Nancy Lomonaco,Married,69,0,Los Angeles,California,90045,Very Low
+RR-19525,Rick Reed,Married,51,1,Lowell,Massachusetts,1852,Very Low
+TC-21295,Toby Carlisle,Unmarried,31,0,San Diego,California,92024,Low
+SV-20785,Stewart Visinsky,Married,34,3,Pueblo,Colorado,81001,Very Low
+BE-11410,Bobby Elias,Married,54,0,Lancaster,Ohio,43130,Low
+SC-20680,Steve Carroll,Married,31,3,Columbus,Georgia,31907,Low
+DF-13135,David Flashing,Married,45,3,Vallejo,California,94591,Very Low
+FH-14350,Fred Harton,Unmarried,45,3,Seattle,Washington,98105,Low
+MS-17530,MaryBeth Skach,Married,45,0,San Diego,California,92037,Moderate
+RH-19555,Ritsa Hightower,Unmarried,61,0,Tallahassee,Florida,32303,Low
+GA-14515,George Ashbrook,Married,42,1,San Francisco,California,94122,Low
+JP-16135,Julie Prescott,Married,57,0,Columbus,Georgia,31907,Moderate
+Dp-13240,Dean percer,Unmarried,64,0,Murray,Utah,84107,Very Low
+MO-17950,Michael Oakman,Married,35,3,Dallas,Texas,75220,Low
+DL-13330,Denise Leinenbach,Married,69,0,Las Cruces,New Mexico,88001,Very Low
+MH-18025,Michelle Huthwaite,Married,40,2,Seattle,Washington,98115,Moderate
+DR-12940,Daniel Raglin,Unmarried,65,3,Franklin,Massachusetts,2038,Very Low
+DM-13015,Darrin Martin,Married,53,0,Encinitas,California,92024,Very Low
+CA-11965,Carol Adams,Married,19,1,Hoover,Alabama,35244,Very Low
+AC-10660,Anna Chung,Married,30,3,Huntsville,Texas,77340,Moderate
+DM-13345,Denise Monton,Married,46,0,Roswell,Georgia,30076,Very Low
+VF-21715,Vicky Freymann,Married,59,0,Columbus,Indiana,47201,Low
+CC-12370,Christopher Conant,Married,38,1,Fayetteville,North Carolina,28314,Moderate
+BF-11275,Beth Fritzler,Unmarried,21,3,Tucson,Arizona,85705,Moderate
+HG-14845,Harry Greene,Married,63,3,Lake Charles,Louisiana,70601,Very Low
+BP-11155,Becky Pak,Married,46,0,Columbus,Georgia,31907,Very Low
+EM-14140,Eugene Moren,Married,49,0,Glendale,Arizona,85301,Very Low
+MA-17995,Michelle Arnett,Married,33,0,Watertown,New York,13601,Low
+AY-10555,Andy Yotov,Married,61,2,Oceanside,California,92054,Very Low
+GB-14575,Giulietta Baptist,Married,50,3,Philadelphia,Pennsylvania,19134,Very Low
+JB-16045,Julia Barnett,Married,65,0,Columbus,Georgia,31907,Very Low
+MG-17875,Michael Grace,Married,67,0,New York City,New York,10011,Very Low
+SR-20425,Sharelle Roach,Married,25,3,Louisville,Colorado,80027,Low
+JB-16000,Joy Bell-,Unmarried,46,0,Brownsville,Texas,78521,Very Low
+DM-12955,Dario Medina,Married,26,0,Lincoln Park,Michigan,48146,Low
+TC-21475,Tony Chapman,Married,64,1,Columbus,Georgia,31907,Very Low
+SW-20350,Sean Wendt,Married,51,1,Detroit,Michigan,48227,Moderate
+RE-19450,Richard Eichhorn,Married,30,2,Dallas,Texas,75081,Very Low
+BF-11215,Benjamin Farhat,Married,69,0,Albuquerque,New Mexico,87105,Low
+KB-16405,Katrina Bavinger,Married,34,0,Apple Valley,California,92307,Very Low
+JG-15310,Jason Gross,Married,61,2,Providence,Rhode Island,2908,Moderate
+EC-14050,Erin Creighton,Unmarried,52,2,New York City,New York,10024,Low
+EB-14110,Eugene Barchas,Married,44,0,Philadelphia,Pennsylvania,19134,Low
+JP-15460,Jennifer Patt,Married,69,1,Oceanside,New York,11572,Low
+CS-11845,Cari Sayre,Unmarried,24,0,Seattle,Washington,98105,Moderate
+GH-14410,Gary Hansen,Married,42,1,Glendale,Arizona,85301,Moderate
+PT-19090,Pete Takahito,Married,48,0,Houston,Texas,77070,Very Low
+JL-15130,Jack Lebron,Married,63,0,Houston,Texas,77036,Very Low
+AH-10030,Aaron Hawkins,Married,60,3,Philadelphia,Pennsylvania,19134,Moderate
+CC-12475,Cindy Chapman,Unmarried,48,3,New York City,New York,10024,Very Low
+DW-13195,David Wiener,Unmarried,55,0,Houston,Texas,77095,Moderate
+SJ-20215,Sarah Jordon,Unmarried,50,0,Grand Prairie,Texas,75051,Moderate
+BG-11740,Bruce Geld,Married,39,0,Philadelphia,Pennsylvania,19120,Very Low
+LB-16795,Laurel Beltran,Unmarried,18,1,Highland Park,Illinois,60035,Very Low
+CM-11815,Candace McMahon,Unmarried,28,0,Pasadena,Texas,77506,Very Low
+EH-14185,Evan Henry,Unmarried,31,0,Decatur,Alabama,35601,Low
+TS-21505,Tony Sayre,Married,32,2,Columbia,Tennessee,38401,Very Low
+PR-18880,Patrick Ryan,Married,44,0,Oakland,California,94601,Very Low
+LC-17050,Liz Carlisle,Unmarried,60,0,Mission Viejo,California,92691,Low
+CS-12490,Cindy Schnelling,Married,32,1,Conroe,Texas,77301,Moderate
+DH-13075,Dave Hallsten,Unmarried,58,0,Richmond,Kentucky,40475,Very Low
+JO-15145,Jack O'Briant,Married,68,2,Philadelphia,Pennsylvania,19140,Low
+AH-10690,Anna Haberlin,Married,39,1,New York City,New York,10024,Moderate
+HJ-14875,Heather Jas,Married,32,2,Jacksonville,Florida,32216,Moderate
+MH-17455,Mark Hamilton,Married,49,0,Jacksonville,North Carolina,28540,Very Low
+RD-19930,Russell D'Ascenzo,Unmarried,67,0,Austin,Texas,78745,Very Low
+SC-20020,Sam Craven,Unmarried,56,3,Plano,Texas,75023,Very Low
+SU-20665,Stephanie Ulpright,Unmarried,30,0,Jackson,Mississippi,39212,Very Low
+FC-14335,Fred Chung,Married,64,3,Mesquite,Texas,75150,Very Low
+RB-19330,Randy Bradley,Married,63,0,Philadelphia,Pennsylvania,19143,Low
+NC-18535,Nick Crebassa,Married,59,0,Dallas,Texas,75217,Moderate
+DB-12970,Darren Budd,Married,42,2,Los Angeles,California,90004,Low
+MF-17665,Maureen Fritzler,Married,37,2,Toledo,Ohio,43615,Very Low
+RM-19750,Roland Murray,Married,66,0,New York City,New York,10011,Very Low
+VM-21835,Vivian Mathis,Married,60,3,Newark,Delaware,19711,Moderate
+EJ-13720,Ed Jacobs,Married,44,0,San Diego,California,92037,Very Low
+NC-18415,Nathan Cano,Unmarried,29,3,Jacksonville,North Carolina,28540,Very Low
+LS-17230,Lycoris Saunders,Married,42,0,Dover,Delaware,19901,Very Low
+KE-16420,Katrina Edelman,Married,53,0,Bristol,Tennessee,37620,Low
+DH-13675,Duane Huffman,Married,65,2,Quincy,Massachusetts,2169,Low
+PF-19120,Peter Fuller,Married,48,0,Gilbert,Arizona,85234,Very Low
+VT-21700,Valerie Takahito,Married,44,3,Philadelphia,Pennsylvania,19143,Very Low
+MG-17695,Maureen Gnade,Unmarried,33,0,Buffalo,New York,14215,Moderate
+SP-20920,Susan Pistek,Unmarried,37,0,Los Angeles,California,90036,Low
+CS-12175,Charles Sheldon,Married,67,0,Columbia,Tennessee,38401,Very Low
+DK-12895,Dana Kaydos,Married,47,3,Kenosha,Wisconsin,53142,Very Low
+KM-16660,Khloe Miller,Married,57,0,Roswell,Georgia,30076,Very Low
+AA-10645,Anna Andreadi,Unmarried,32,0,Chester,Pennsylvania,19013,Very Low
+DD-13570,Dorothy Dickinson,Married,32,1,Houston,Texas,77041,Very Low
+AH-10465,Amy Hunt,Married,24,0,New York City,New York,10035,Moderate
+TP-21565,Tracy Poddar,Unmarried,25,0,Aurora,Colorado,80013,Very Low
+EK-13795,Eileen Kiefer,Married,25,0,Santa Ana,California,92704,Moderate
+CR-12820,Cyra Reiten,Married,38,0,New York City,New York,10035,Very Low
+SG-20890,Susan Gilcrest,Married,41,0,Mcallen,Texas,78501,Very Low
+AH-10585,Angele Hood,Unmarried,34,1,Chicago,Illinois,60623,Low
+NF-18475,Neil Franzosisch,Married,55,3,Rockford,Illinois,61107,Very Low
+BS-11365,Bill Shonely,Married,34,3,New York City,New York,10011,Low
+SH-20635,Stefanie Holloman,Married,57,1,Jackson,Tennessee,38301,Very Low
+RD-19720,Roger Demir,Unmarried,30,0,Daytona Beach,Florida,32114,Very Low
+AG-10330,Alex Grayson,Married,51,1,Stockton,California,95207,Low
+GR-14560,Georgia Rosenberg,Married,33,1,San Francisco,California,94110,Very Low
+VS-21820,Vivek Sundaresam,Married,22,0,Los Angeles,California,90036,Very Low
+TM-21490,Tony Molinari,Married,63,3,Oklahoma City,Oklahoma,73120,Very Low
+TS-21430,Tom Stivers,Married,22,2,Los Angeles,California,90045,Very Low
+DB-13360,Dennis Bolton,Unmarried,41,0,New York City,New York,10009,Very Low
+NR-18550,Nick Radford,Unmarried,21,0,Aurora,Illinois,60505,Very Low
+CS-11860,Cari Schnelling,Unmarried,69,0,Jacksonville,North Carolina,28540,Very Low
+MF-18250,Monica Federle,Unmarried,34,3,Los Angeles,California,90036,Low
+LW-17125,Liz Willingham,Unmarried,55,1,Norwich,Connecticut,6360,Very Low
+AR-10345,Alex Russell,Married,38,2,Lawrence,Massachusetts,1841,Moderate
+KS-16300,Karen Seio,Married,53,0,Lehi,Utah,84043,Moderate
+AB-10015,Aaron Bergman,Married,66,1,Seattle,Washington,98103,Very Low
+LR-17035,Lisa Ryan,Married,62,0,Philadelphia,Pennsylvania,19134,Very Low
+SS-20410,Shahid Shariari,Unmarried,35,0,Los Angeles,California,90008,Low
+JM-15580,Jill Matthias,Married,37,0,Monroe,North Carolina,28110,Very Low
+JK-15325,Jason Klamczynski,Married,69,3,Dallas,Texas,75220,Moderate
+DM-13525,Don Miller,Married,18,0,Houston,Texas,77070,Low
+ML-18265,Muhammed Lee,Married,51,0,Seattle,Washington,98103,Low
+MH-17290,Marc Harrigan,Married,39,0,Los Angeles,California,90036,Moderate
+FC-14245,Frank Carlisle,Unmarried,20,0,Lakewood,Ohio,44107,Very Low
+TH-21115,Thea Hudgings,Married,38,1,Philadelphia,Pennsylvania,19140,Very Low
+JK-16090,Juliana Krohn,Married,51,0,Omaha,Nebraska,68104,Moderate
+SB-20185,Sarah Brown,Married,31,3,Concord,New Hampshire,3301,Very Low
+BG-11035,Barry Gonzalez,Unmarried,57,2,Monroe,Louisiana,71203,Very Low
+BW-11065,Barry Weirich,Married,30,1,Raleigh,North Carolina,27604,Very Low
+MG-18205,Mitch Gastineau,Unmarried,55,2,Jacksonville,Florida,32216,Low
+DO-13645,Doug O'Connell,Married,20,1,Los Angeles,California,90036,Very Low
+BP-11050,Barry Pond,Unmarried,65,1,Cranston,Rhode Island,2920,Low
+TS-21655,Trudy Schmidt,Married,21,1,Milwaukee,Wisconsin,53209,Very Low
+EM-14200,Evan Minnotte,Unmarried,52,3,Virginia Beach,Virginia,23464,Moderate
+AO-10810,Anthony O'Donnell,Unmarried,66,2,Los Angeles,California,90045,Very Low
+MH-17440,Mark Haberlin,Married,47,0,New York City,New York,10035,Moderate
+SS-20515,Shirley Schmidt,Married,31,0,Louisville,Kentucky,40214,Low
+LD-16855,Lela Donovan,Married,52,0,Chicago,Illinois,60653,Very Low
+VP-21760,Victoria Pisteka,Unmarried,35,0,San Francisco,California,94109,Low
+TC-21145,Theresa Coyne,Married,63,0,Lakewood,New Jersey,8701,Very Low
+IM-15055,Ionia McGrath,Married,40,1,Roseville,California,95661,Low
+AR-10570,Anemone Ratner,Married,36,1,Columbus,Georgia,31907,Very Low
+CM-12715,Craig Molinari,Unmarried,53,0,Huntsville,Texas,77340,Very Low
+FW-14395,Fred Wasserman,Unmarried,41,0,Huntsville,Alabama,35810,Very Low
+LC-16960,Lindsay Castell,Unmarried,57,0,Arlington,Virginia,22204,Very Low
+HE-14800,Harold Engle,Married,31,0,Chicago,Illinois,60623,Moderate
+BD-11560,Brendan Dodson,Married,54,0,Fresno,California,93727,Low
+HD-14785,Harold Dahlen,Married,32,0,Philadelphia,Pennsylvania,19143,Moderate
+CJ-11875,Carl Jackson,Married,64,0,Philadelphia,Pennsylvania,19140,Low
+RS-19870,Roy Skaria,Married,39,0,Burlington,Iowa,52601,Very Low
+SC-20845,Sung Chung,Unmarried,69,1,Arlington Heights,Illinois,60004,Very Low
+RE-19405,Ricardo Emerson,Unmarried,35,2,Kent,Ohio,44240,Very Low
+SM-20905,Susan MacKendrick,Married,46,0,Newark,Ohio,43055,Very Low
